@@ -1,0 +1,47 @@
+{
+    "coord":{
+        "lon":-0.3979,
+        "lat":38.4289
+        
+    },
+    "weather": [
+        {
+            "id":800,
+            "main":"Clear",
+            "description":"clear sky",
+            "icon":"01d"
+        }
+    ],
+    "base":"stations",
+    "main": {
+        "temp":17.15,
+        "feels_like":16.98,
+        "temp_min":15.4,
+        "temp_max":22.98,
+        "pressure":1018,
+        "humidity":79
+    },
+    "visibility":10000,
+    "wind": {
+        "speed":2.68,
+        "deg":68
+        "gust":5.36
+        
+    },
+    "clouds": {
+        "all":1
+    },
+    "dt":1677073813,
+    "sys": {
+        "type":2,
+        "id":2012762,
+        "country":"ES",
+        "sunrise":1677048248,
+        "sunset":1677087989
+    },
+    "timezone":3600,
+    "id":2520447,
+    "name":"El Campello",
+    "cod":200
+}
+
